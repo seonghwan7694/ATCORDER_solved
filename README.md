@@ -12,5 +12,5 @@
 | Date | Name | Youtube |              Solved              |
 |         :---------:         | :--------------: | :----: |              :---------:              |
 |        Jul/17/2022 21:00        |   [AtCoder Beginner Contest 260](https://github.com/seonghwan7694/ATCORDER_solved/tree/main/AtCoder%20Beginner%20Contest%20260)   |   [🌏🌏🌏](https://youtu.be/ZyKpXp7PZV8)   | 😍😍😍🤬🤬❌❌❌ |
-|        Jul/23/2022 21:00        |   [AtCoder Beginner Contest 260]()   |   [🌏🌏🌏](https://github.com/seonghwan7694/ATCORDER_solved/tree/main/AtCoder%20Beginner%20Contest%20261)   | 😍😍😍🤬🤢❌❌❌ |
+|        Jul/23/2022 21:00        |   [AtCoder Beginner Contest 261](https://github.com/seonghwan7694/ATCORDER_solved/tree/main/AtCoder%20Beginner%20Contest%20261)   |   [🌏🌏🌏](https://youtu.be/z7NRnrFssmo)   | 😍😍😍🤬🤢❌❌❌ |
 |        🚧🚧🚧        |   🚧🚧🚧   |   🚧🚧🚧   | 🚧🚧🚧 |
